@@ -31,3 +31,4 @@ Findings of this project was published on Medium available [here]().
 ## Acknowledgements
 ---
 Source of datasets is Inside Airbnb which can be found [here](http://insideairbnb.com/get-the-data.html). A portion of codes were borrowed from chapter 2 of Hands-On Machine Learning with Scikit-Learn and TensorFlow by Aurélien Géron.
+This is also my first project done with Udacity Data Scientist nanodegree.
