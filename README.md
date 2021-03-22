@@ -1,4 +1,11 @@
 ## Table of Contents
+1. [Installation](#Installation)
+2. [Project Motivation](#Project-Motivation)
+3. [Dataset](#Dataset)
+4. [File Descriptions](#File-Descriptions)
+5. [Statistical Models](#Statistical-Models)
+6. [Result](#Result)
+7. [Acknowledgements](#Acknowledgements)
 
 ## Installation
 ---
