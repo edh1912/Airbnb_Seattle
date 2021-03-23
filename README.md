@@ -33,7 +33,7 @@ Linear Regression and Random Forest are used so to see how simple and complex mo
 
 ## Result
 ---
-Findings of this project was published on Medium available [here]().
+Findings of this project was published on Medium available [here](https://edwinhung.medium.com/how-do-you-determine-lodging-price-on-seattle-airbnb-820897532c7e).
 
 ## Acknowledgements
 ---
